@@ -1,0 +1,15 @@
+# requirements.txt
+pandas
+numpy
+pyarrow
+requests
+trafilatura
+warcio
+geopy
+torch==2.8.0 # newest version
+torchvision
+sentence-transformers
+accelerate
+usearch
+tqdm
+openpyxl
